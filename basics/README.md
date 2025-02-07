@@ -1,2 +1,1 @@
-#!/bin/bash
-Hello there ! 
+Repertory of every task for Shell's project from Holberton School 
