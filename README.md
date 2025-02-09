@@ -1,1 +1,1 @@
-Repository for 'Shell, basics' project  
+Repository for Shell projects 
