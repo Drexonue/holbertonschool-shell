@@ -1,2 +1,2 @@
-#!/bin/bash 
-find -newer 10 | ls -l
+#!/bin/bash
+ls -la -t | head -n 10
