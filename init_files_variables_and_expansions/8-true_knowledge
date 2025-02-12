@@ -1,2 +1,2 @@
 #!/bin/bash
-y=$(( $TRUEKNWOLEDGE + 128 )); echo $y
+y=$(( $TRUEKNWOLEDGE + 128 )) |	echo $y
