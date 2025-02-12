@@ -1,2 +1,2 @@
 #!/bin/bash
-y=$(( $TRUEKNWOLEDGE + 128 )) |	echo $y
+$num=(($TRUEKNOWLEDGE+128)) | echo $num
